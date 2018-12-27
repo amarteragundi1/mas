@@ -1,4 +1,1 @@
-https://techmglobal.webex.com/techmglobal/onstage/g.php?d=570823044&t=h
-
-webex ID - 570823044
-password: 12345
+https://medium.com/@rogerdudler/front-end-technology-stack-survey-2014-809f7a8c92f3
