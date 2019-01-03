@@ -2,6 +2,11 @@ https://medium.com/@rogerdudler/front-end-technology-stack-survey-2014-809f7a8c9
 
 https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7
 
+Constructor : https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6-understanding-the-tough-parts-6120372d3420
+
+in the above link checkout for links to prototype and inheritance explaination.
+
+
 
 Simply put it this way: in a statically typed language variables' types are static, meaning once you set a variable to a type, you cannot change it. That is because typing is associated with the variable rather than the value it refers to.
 
